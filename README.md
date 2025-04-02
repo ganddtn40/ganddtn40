@@ -1,4 +1,4 @@
-<img src="a.jpeg" width="100%" />
+<img src="b.jpeg" width="100%" />
 
 # 💫 About Me:
 A student who wants to be successful in the future through the IT field
