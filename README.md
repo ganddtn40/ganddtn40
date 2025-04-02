@@ -1,3 +1,5 @@
+<img src="banner.jpeg" width="100%" />
+
 # 💫 About Me:
 A student who wants to be successful in the future through the IT field
 
