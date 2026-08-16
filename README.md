@@ -21,10 +21,10 @@
 <div align="center">
 <!-- GANTI "nama-repo-1" dan "nama-repo-2" DENGAN NAMA REPOSITORY KAMU YANG ASLI -->
 <a href="https://github.com/ganddtn40/socialitea">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ganddtn40&repo=nama-repo-1&theme=radical&border_radius=10" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ganddtn40&repo=socialitea&theme=radical&border_radius=10" width="48%" />
 </a>
-<a href="https://github.com/ganddtn40/nama-repo-2">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ganddtn40&repo=nama-repo-2&theme=radical&border_radius=10" width="48%" />
+<a href="https://github.com/ganddtn40/burgerbangortanjung">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ganddtn40&repo=burgerbangortanjung&theme=radical&border_radius=10" width="48%" />
 </a>
 </div>
 🛠️ Tech Stack & Tools
