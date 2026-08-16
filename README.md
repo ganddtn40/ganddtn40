@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:22d3ee&height=260&section=header&text=Hi%20There,%20I'm%20Gandi%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Vocational%20IT%20Student%20%7C%20Builder%20%7C%20Tinkerer&descAlignY=55&descAlign=50&descColor=e0e7ff" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:22d3ee&height=260&section=header&text=Hi%20There,%20I'm%20Galih%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Vocational%20IT%20Student%20%7C%20Builder%20%7C%20Tinkerer&descAlignY=55&descAlign=50&descColor=e0e7ff" width="100%" />
 
 <a href="https://github.com/ganddtn40">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=650&lines=Vocational+IT+Student+%F0%9F%92%BB;Learning+Networks+%2B+Hardware+%E2%9A%99%EF%B8%8F;Building+Web+Experiments+%F0%9F%9A%80;Managing+Como+1907+in+Master+League+%E2%9A%BD;Always+Tinkering+With+Something+%E2%9C%A8" alt="Typing SVG" />
