@@ -93,7 +93,7 @@ Mobile (Flutter/Kotlin) ██████████░░░░░░░░  
 <a href="https://instagram.com/gglhddty" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-<a href="https://tiktok.com/@absolounfrth" target="_blank">
+<a href="https://tiktok.com/@absloutnfrth" target="_blank">
   <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
 </a>
 <a href="https://github.com/ganddtn40" target="_blank">
