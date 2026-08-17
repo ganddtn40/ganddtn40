@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,50:808080,100:000000&height=260&section=header&text=LyhhSjaa&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Vocational%20IT%20Student%20%7C%20Builder%20%7C%20Tinkerer&descAlignY=55&descAlign=50&descColor=e0e7ff" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,50:808080,100:000000&height=260&section=header&text=Galih-Aditya&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Vocational%20IT%20Student%20%7C%20Builder%20%7C%20Tinkerer&descAlignY=55&descAlign=50&descColor=e0e7ff" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=650&lines=Vocational+IT+Student+%F0%9F%92%BB;Learning+Networks+%2B+Hardware+%E2%9A%99%EF%B8%8F;Building+Web+Experiments+%F0%9F%9A%80;Managing+Como+1907+in+Master+League+%E2%9A%BD;Always+Tinkering+With+Something+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=650&lines=Vocational+IT+Student+%F0%9F%92%BB;Learning+Networks+%2B+Hardware+%E2%9A%99%EF%B8%8F;Building+Web+Experiments+%F0%9F%9A%80;Always+Tinkering+With+Something+%E2%9C%A8" alt="Typing SVG" />
 
 <br/>
 
@@ -18,47 +18,16 @@
 ```
 ┌─────────────────────────────────────────────────────────────┐
 │  whoami                                                       │
-│  > IT student @ SMK, learning by breaking things              │
+│  > Freelance Web Developer, learning by breaking things              │
 │                                                                 │
-│  currently_on      : School projects + IT fundamentals        │
-│  currently_learning: Networking, Hardware, OS, Programming    │
+│  currently_on      : Personal projects + IT fundamentals        │
+│  currently_learning: Networking, Hardware, IoT, Programming, Agentic AI    │
 │  open_to_collab    : Beginner-friendly OSS & fun experiments  │
 │  ask_me_about      : Anything from my major, or tech stuff    │
 │  fun_fact          : I open up computers just to see how      │
 │                       they tick                                │
 └─────────────────────────────────────────────────────────────┘
 ```
-
-<br/>
-
-## 📌 Pinned Projects
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>☕ SOCIALITEA</h3>
-      <p>Website coffee shop premium dengan desain modern.</p>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-      <br/><br/>
-      <a href="https://github.com/ganddtn40/socialitea">
-        <img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-      <img src="https://img.shields.io/github/stars/ganddtn40/socialitea?style=for-the-badge&color=f59e0b&labelColor=1e1b4b" />
-    </td>
-    <td width="50%" valign="top">
-      <h3>🍔 Burger Bangor Tanjung</h3>
-      <p>Website untuk bisnis kuliner burger.</p>
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-      <br/><br/>
-      <a href="https://github.com/ganddtn40/burgerbangortanjung">
-        <img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-      <img src="https://img.shields.io/github/stars/ganddtn40/burgerbangortanjung?style=for-the-badge&color=f59e0b&labelColor=1e1b4b" />
-    </td>
-  </tr>
-</table>
 
 <br/>
 
