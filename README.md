@@ -32,14 +32,16 @@
 
 ## Technologies
 
-<img src="https://img.shields.io/badge/typescript-000000?style=for-the-badge&logo=typescript&logoColor=white&color=black&labelColor=black" />
-<img src="https://img.shields.io/badge/sql-000000?style=for-the-badge&logo=postgresql&logoColor=white&color=black&labelColor=black" />
-<img src="https://img.shields.io/badge/php-000000?style=for-the-badge&logo=php&logoColor=white&color=black&labelColor=black" />
-<img src="https://img.shields.io/badge/dart-000000?style=for-the-badge&logo=dart&logoColor=white&color=black&labelColor=black" />
-<img src="https://img.shields.io/badge/html5-000000?style=for-the-badge&logo=html5&logoColor=white&color=black&labelColor=black" />
-<img src="https://img.shields.io/badge/css3-000000?style=for-the-badge&logo=css3&logoColor=white&color=black&labelColor=black" />
-<img src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white&color=black&labelColor=black" />
-<img src="https://img.shields.io/badge/vscode-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white&color=black&labelColor=black" />
+<img src="https://img.shields.io/badge/typescript-000000?style=for-the-badge&logo=typescript&logoColor=white&labelColor=000000" />
+<img src="https://img.shields.io/badge/sql-000000?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=000000" />
+<img src="https://img.shields.io/badge/php-000000?style=for-the-badge&logo=php&logoColor=white&labelColor=000000" />
+<img src="https://img.shields.io/badge/dart-000000?style=for-the-badge&logo=dart&logoColor=white&labelColor=000000" />
+<img src="https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=white&labelColor=000000" />
+<img src="https://img.shields.io/badge/c%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=000000" />
+<img src="https://img.shields.io/badge/html5-000000?style=for-the-badge&logo=html5&logoColor=white&labelColor=000000" />
+<img src="https://img.shields.io/badge/css3-000000?style=for-the-badge&logo=css3&logoColor=white&labelColor=000000" />
+<img src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
+<img src="https://img.shields.io/badge/vscode-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=000000" />
 
 </div>
 
@@ -82,6 +84,6 @@
 
 ## Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ganddtn40&theme=react&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&hide_border=true" alt="GitHub Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ganddtn40&bg_color=000000&color=ffffff&line=ffffff&point=888888&area=true&area_color=333333&hide_border=true" alt="GitHub Contribution Graph" />
 
 </div>
