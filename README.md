@@ -4,7 +4,7 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=ganddtn40&color=000000&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=ganddtn40\&color=000000\&style=for-the-badge\&label=PROFILE+VIEWS)
 
 </div>
 
@@ -14,7 +14,7 @@
   <tr>
     <td width="55%" valign="middle">
 
-```
+```text
 ⁜ Class  -> Web Dev / Full-Stack Apprentice
 ⁜ Origin -> Indonesia ɪᴅ
 ```
@@ -47,7 +47,41 @@
 
 <div align="left">
 
-Statistics
-<table border="0"> <tr> <td width="40%" align="center" valign="middle"> <img src="https://i.pinimg.com/originals/d7/f3/cb/d7f3cb10b7eff789a4f10a6aab09d1bb.gif" width="350" alt="Meme" /> </td> <td width="60%" align="center" valign="middle"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ganddtn40&theme=dark&background=000000&border=333333&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=888888" alt="GitHub Streak Stats" /> </td> </tr> </table> </div> <br/> <div align="left">
-Contribution Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ganddtn40&theme=react&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&hide_border=true" alt="GitHub Activity Graph" /> </div>
+## LeetCode
+
+<p align="center">
+  <a href="https://leetcode.com/u/ganddtn40/">
+    <img src="https://leetcard.jacoblin.cool/ganddtn40?theme=dark&font=Georgia" alt="LeetCode Stats" />
+  </a>
+</p>
+
+</div>
+
+<br/>
+
+<div align="left">
+
+## Statistics
+
+<table border="0">
+  <tr>
+    <td width="40%" align="center" valign="middle">
+      <img src="https://i.pinimg.com/originals/d7/f3/cb/d7f3cb10b7eff789a4f10a6aab09d1bb.gif" width="350" alt="Meme" />
+    </td>
+    <td width="60%" align="center" valign="middle">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ganddtn40&theme=dark&background=000000&border=333333&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=888888" alt="GitHub Streak Stats" />
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<br/>
+
+<div align="left">
+
+## Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ganddtn40&theme=react&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&hide_border=true" alt="GitHub Activity Graph" />
+
+</div>
