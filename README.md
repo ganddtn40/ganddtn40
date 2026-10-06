@@ -15,7 +15,7 @@
     <td width="55%" valign="middle">
 
 ```text
-⁜ Class  -> Web Dev / Full-Stack Apprentice
+⁜ Class  -> Web Dev / Full-Stack Developer
 ⁜ Origin -> Indonesia ɪᴅ
 ```
 
