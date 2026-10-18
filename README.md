@@ -77,13 +77,3 @@
 </table>
 
 </div>
-
-<br/>
-
-<div align="left">
-
-## Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ganddtn40&bg_color=000000&color=ffffff&line=ffffff&point=888888&area=true&area_color=333333&hide_border=true" alt="GitHub Contribution Graph" />
-
-</div>
