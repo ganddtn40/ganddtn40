@@ -34,7 +34,6 @@
 
 <img src="https://img.shields.io/badge/typescript-000000?style=for-the-badge&logo=typescript&logoColor=white&labelColor=000000" />
 <img src="https://img.shields.io/badge/sql-000000?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=000000" />
-<img src="https://img.shields.io/badge/c%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=000000" />
 <img src="https://img.shields.io/badge/html5-000000?style=for-the-badge&logo=html5&logoColor=white&labelColor=000000" />
 <img src="https://img.shields.io/badge/css3-000000?style=for-the-badge&logo=css3&logoColor=white&labelColor=000000" />
 <img src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
