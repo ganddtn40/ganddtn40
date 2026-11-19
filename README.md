@@ -39,7 +39,7 @@
 <img src="https://img.shields.io/badge/rust-000000?style=for-the-badge&logo=rust&logoColor=white&labelColor=000000" />
 <img src="https://img.shields.io/badge/c++-000000?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=000000" />
 <img src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
-<img src="https://img.shields.io/badge/vscode-000000?style=for-the-badge&logo=vscodium&logoColor=white&labelColor=000000" />
+<img src="https://img.shields.io/badge/vscode-000000?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMy4xNSAyLjU4N0wxOC4yMS4yMWExLjQ5NCAxLjQ5NCAwIDAgMC0xLjcwNS4yOUw5LjIgOC42IDQuMzkgNC45NGExIDEgMCAwIDAtMS4yOC4wOEwxLjI5IDYuNjlhMSAxIDAgMCAwLS4wMiAxLjQ3TDYuNDcgMTIgMS4yNyAxNS44NGExIDEgMCAwIDAgLjAyIDEuNDdsMS44MiAxLjY3YTEgMSAwIDAgMCAxLjI4LjA4TDkuMiAxNS40bDcuMzA1IDguMWEuNDk0LjQ5NCAwIDAgMCAxLjcwNS4yOWw0Ljk0LTIuMzc3QTEuNSAxLjUgMCAwIDAgMjQgMTkuOTZWNDA0YTEuNSAxLjUgMCAwIDAtLjg1LTEuNDUzek0xOCAxNi41bC01LjUtNC41IDE4IDcuNVYxNi41eiIvPjwvc3ZnPg==&logoColor=white&labelColor=000000" />
 
 </div>
 
